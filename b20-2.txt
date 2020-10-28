@@ -1,0 +1,6 @@
+this is second file
+
+
+doing discard changes   
+
+again Commiting
